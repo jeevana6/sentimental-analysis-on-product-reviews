@@ -1,0 +1,2 @@
+# sentimental-analysis-on-product-reviews
+This project  takes the amazon product id as input and extracts a json file of product reviews  and textblob sentiment is applied on the list of review-text. Polarity of each review is stored back and then by the  value of average polarity  the product  is classified a positive or negative or neutral product. This project is very much useful for people who waste lot of time reading reviews before buying an online product.
